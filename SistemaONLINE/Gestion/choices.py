@@ -1,0 +1,10 @@
+CARGO={
+    '1':'Gerente',
+    '2':'Vendedor',
+    '3':'Cajero',
+}
+NOMBRE_CATEGORIA={
+    '1':'Alimentos',
+    '2':'Bebidas',
+    '3':'Ropa',
+    }
